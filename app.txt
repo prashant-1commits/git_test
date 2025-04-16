@@ -3,3 +3,5 @@ hey
 A second change I made
 
 A third edit after bringing it back it staging area
+
+4th edit: checking what happens to the 3rd commit "third edit"
