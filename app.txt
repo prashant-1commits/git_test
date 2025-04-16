@@ -7,4 +7,6 @@ A third edit after bringing it back it staging area
 4th edit: checking what happens to the 3rd commit
 
 5th edit: all the commits are highlighted with different colors showing commits. 
-Let's see how deletions are handled. Deleted " "third edit" in line 7. 
+Let's see how ... line 7. 
+
+6th edit: I was wrong about the way colors are used. "Green" indicates the additions made to the content of the file. while "Red" indicates their removal from the source file. Let's remove "deletions are handled. Deleted " "third edit" in" from line 10 and see how it appears in git commits.
